@@ -1,4 +1,4 @@
-# ServoMotor-sender-w-DE0-Nano-SoC
+# ServoMotor-sender-with-DE0-Nano-SoC
 
 TEAM members : MEURISSE Evelyne, DELPIRE Boris & FACCHIN Florian
 
