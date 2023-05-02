@@ -11,6 +11,7 @@ The useful information that we will send to the servomotor is the counter and th
 
 The Tuto that you can find in this repertory is divided into 2 parts : the Hardware and th Software 
 
+-------------------------------------------------------------------------------------------------------------------------------
 HARDWARE :
 The hardware part of our project is the leader of the choosen input and the output. The implementation part is realized with the tool "Platform Designer" of Quartus. The programming Language used in this program in the VHDL. 
 We created a program, named ServoOut, which aims to init the counter and the frequency generator.
@@ -21,7 +22,9 @@ There are many VHDL codes available online to command a servomotor , it is possi
 
 SOFTWARE : 
 
+--------------------------------------------------------------------------------------------------------------------------------
 ADDITIONAL NOTES : PIO and GPIO - Differences and uses
+
 We noticed that much people meets difficulties to understand the differences between PIO and GPIO and where it comes into our project (Hardware, Software or Peripherial ?) we realized a little resume, named "PIO and GPIO - What is that ?" if you are part of those people who are totally lost with this words.
 
 
