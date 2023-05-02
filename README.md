@@ -1,6 +1,7 @@
 # ServoMotor-sender-w-DE0-Nano-SoC
 
 TEAM members : MEURISSE Evelyne, DELPIRE Boris & FACCHIN Florian
+----------------------
 
 This project was realized as part of our course of Hardware/software Platforms of the master in Electrical Engineering at the Polytechnic Faculty of Mons. 
 
