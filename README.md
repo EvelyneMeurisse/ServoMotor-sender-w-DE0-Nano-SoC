@@ -1,6 +1,7 @@
 # ServoMotor-sender-w-DE0-Nano-SoC
 
 TEAM members : MEURISSE Evelyne, DELPIRE Boris & FACCHIN Florian
+
 ----------------------
 
 This project was realized as part of our course of Hardware/software Platforms of the master in Electrical Engineering at the Polytechnic Faculty of Mons. 
@@ -12,7 +13,7 @@ The useful information that we will send to the servomotor is the counter and th
 
 The Tuto that you can find in this repertory is divided into 2 parts : the Hardware and th Software 
 
--------------------------------------------------------------------------------------------------------------------------------
+
 HARDWARE :
 ----------
 
@@ -27,7 +28,7 @@ SOFTWARE :
 -----------
 
 
---------------------------------------------------------------------------------------------------------------------------------
+
 ADDITIONAL NOTES : PIO and GPIO - Differences and uses
 ------------------------------------------------------
 
@@ -35,6 +36,7 @@ We noticed that much people meets difficulties to understand the differences bet
 
 
 
-The video that you can find at the following adress resumes all the information you need to know about our project : 
+The video that you can find at the following adress resumes all the information you need to know about our project :
 
+--------------------------------------------------------------------------------------------------------------------------------------
 Our team thanks you for the attention you pay to our work, and hopes that all this work has led you to better understand why VHDL can be used for and how to master a servo motor with a DE0-Nano-SoC kit.  
