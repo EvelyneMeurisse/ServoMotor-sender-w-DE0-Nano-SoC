@@ -14,6 +14,8 @@ The Tuto that you can find in this repertory is divided into 2 parts : the Hardw
 
 -------------------------------------------------------------------------------------------------------------------------------
 HARDWARE :
+----------
+
 The hardware part of our project is the leader of the choosen input and the output. The implementation part is realized with the tool "Platform Designer" of Quartus. The programming Language used in this program in the VHDL. 
 We created a program, named ServoOut, which aims to init the counter and the frequency generator.
 
@@ -22,9 +24,12 @@ The Hardware is also in charge to realize the Testbench, this has the purpose to
 There are many VHDL codes available online to command a servomotor , it is possible to use them but the risk is that it can contain errors or need modifications to work. 
 
 SOFTWARE : 
+-----------
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 ADDITIONAL NOTES : PIO and GPIO - Differences and uses
+------------------------------------------------------
 
 We noticed that much people meets difficulties to understand the differences between PIO and GPIO and where it comes into our project (Hardware, Software or Peripherial ?) we realized a little resume, named "PIO and GPIO - What is that ?" if you are part of those people who are totally lost with this words.
 
