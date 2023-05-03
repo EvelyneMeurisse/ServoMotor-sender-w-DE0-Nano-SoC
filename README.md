@@ -22,7 +22,7 @@ HARDWARE :
 ----------
 
 The hardware part of our project is the leader of the choosen input and the output. The implementation part is realized with the tool "Platform Designer" of Quartus. The programming Language used in this program in the VHDL. 
-We created a program, named ServoOut, which aims to init the counter and the frequency generator.
+We created a program, named Servomotor, which aims to init the counter and the frequency generator.
 
 The Hardware is also in charge to realize the Testbench, this has the purpose to simulate the behaviour of the servoOut before we link it to the Software part and the processor. It can also test the input and the output to check if the information sents to the Hardware part well-correspond to the information sents to the peripherial ( in the other to the Servomotor).
 
