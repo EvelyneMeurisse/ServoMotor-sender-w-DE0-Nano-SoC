@@ -40,9 +40,7 @@ ADDITIONAL NOTES : PIO and GPIO - Differences and uses
 
 We noticed that much people meets difficulties to understand the differences between PIO and GPIO and where it comes into our project (Hardware, Software or Peripherial ?) we realized a little resume, named "PIO and GPIO - What is that ?" if you are part of those people who are totally lost with this words.
 
-
-
+--------------------------------------------------------------------------------------------------------------------------------------
 To know how we realised the hardware and the software part, you can watch the following video (click on the link) to have more technical details about the project :
 
---------------------------------------------------------------------------------------------------------------------------------------
 Our team thanks you for the attention you pay to our work, and hopes that all this work has led you to better understand why VHDL can be used for and how to master a servo motor with a DE0-Nano-SoC kit.  
