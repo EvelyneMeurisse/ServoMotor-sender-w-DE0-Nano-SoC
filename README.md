@@ -32,8 +32,8 @@ In  this repository, you have a first VHDL file name "driver", this file links t
 
 SOFTWARE : 
 -----------
-
-
+The software play the role of the interface Human/Machine, it permits to enter a value of angle, and it converts it in a 8-bit value between 0 and 255. 
+For this part, 2 codes in C concern this part. You will find on this repository, the files "driver.c" and "main.c". The role of the driver do the conversion in bits of the degree value and put in the register. The main file plays the role of the interface between the Human and the Machine     
 
 ADDITIONAL NOTES : PIO and GPIO - Differences and uses
 ------------------------------------------------------
