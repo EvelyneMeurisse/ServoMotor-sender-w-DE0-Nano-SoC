@@ -42,6 +42,6 @@ We noticed that much people meets difficulties to understand the differences bet
 To know how we realised the hardware and the software part, you can watch the following video (click on the link) to have more technical details about the project :
 - part 1 : https://youtu.be/Y9pQVFnxcbA
 - part 2 : https://youtu.be/4JdH8oiJU9M
-- part 3 : 
+- part 3 : https://youtu.be/cdshkYIpE3s
 
 Our team thanks you for the attention you pay to our work, and hopes that all this work has led you to better understand why VHDL can be used for and how to master a servo motor with a DE0-Nano-SoC kit.  
